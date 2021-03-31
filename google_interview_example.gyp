@@ -27,3 +27,9 @@ def isThereSum2(arr, sum):
 
 print(isThereSum2(array1,sum1))
 print(isThereSum2(array2,sum2))
+
+
+l = set()
+l.add(1)
+l.add(5)
+
